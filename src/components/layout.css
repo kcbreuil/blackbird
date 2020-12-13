@@ -36,7 +36,6 @@ body {
   content: "NEW SITE COMING SOON";
   position: absolute;
   mix-blend-mode: difference;
-
   filter: blur(3px);
 }
 
@@ -51,7 +50,6 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-
   mix-blend-mode: multiply;
 }
 
